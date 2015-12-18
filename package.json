@@ -6,7 +6,7 @@
   "author": "Mapbox (https://www.mapbox.com)",
   "license": "BSD",
   "dependencies": {
-    "carmen-cache": "0.10.0",
+    "carmen-cache": "https://github.com/mapbox/carmen-cache/tarball/enuf",
     "dawg-cache": "0.2.0",
     "err-code": "0.1.2",
     "eslint": "^1.5.0",
