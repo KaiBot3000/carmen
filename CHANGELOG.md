@@ -1,5 +1,30 @@
 # Changelog
 
+## 12.2.7
+
+- Expose source._commit where it exists
+
+## 12.2.6
+
+- Cleanly exit after obtaining a results with scripts/carmen.js when using --config flag
+
+## 12.2.5
+
+- Better handling of empty strings in DAWG index
+
+## 12.2.4
+
+- Streaming indexer should utilize geocoder_resolution in tile cover
+
+## 12.2.3
+
+- Fix context properties bug
+- Add id=> output for all features
+
+## 12.2.2
+
+- Enforce GeoJSON compliance on indexing
+
 ## 12.2.1
 
 - Ensure addressitp parity exists
